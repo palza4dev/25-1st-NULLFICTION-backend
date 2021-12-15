@@ -39,19 +39,20 @@
 
 # 구현 기능
 
-- POST 회원가입
+- **문승준** [[블로그 후기 링크](https://velog.io/@palza4dev/NULLFICTION-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4-%ED%9B%84%EA%B8%B0)]
+  - GET 상품 목록 (+ 필터링, 페이지네이션)
 
-- POST 로그인
+  - GET 베스트셀러 목록
 
-- GET 상품 목록 (+ 필터링, 페이지네이션)
+  - GET 상품명 검색
 
-- GET 베스트셀러 목록
-
-- GET 상품명 검색
-
-- GET 상품 상세 페이지
-
-- POST, GET, PATCH, DELETE 장바구니 담기, 조회, 추가, 삭제
+  - GET 상품 상세 페이지
+- 이정아
+  - POST 회원가입
+ 
+  - POST 로그인
+- 공통
+  - POST, GET, PATCH, DELETE 장바구니 담기, 조회, 추가, 삭제
 
   
 
